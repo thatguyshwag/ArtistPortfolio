@@ -1,0 +1,117 @@
+body {
+  margin: 0;
+  padding: 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.main {
+  background-color: rgb(124, 187, 241);
+  background-image: url("https://plus.unsplash.com/premium_photo-1675695700239-44153e6bf430?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=2070");
+}
+
+.contentBody {
+  background-image: url("https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-42312.jpg?w=1380&t=st=1697570586~exp=1697571186~hmac=1541c8a95d19c4d0ecbe652e3ac6ac3ee86e765e038db2da4bd72d37b35d9764");
+}
+
+.contentSubheader {
+  text-align:center;
+}
+
+.contentFirst {
+  align-content: center;
+  width:30%;
+}
+.contentSecond {
+  align-content: center;
+  width:30%;
+}
+
+.MenuImage {
+  width: 70%;
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+.galleryTitle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
+.contentTitle {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
+.container {
+  display: flex;
+}
+
+.galleryImages {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+  flex: 1;
+}
+
+
+.imgContent1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.imgContent2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.imgContent3 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.imgContent4 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.imgContent5 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.imgContent6 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.contactBody {
+  background-color:rgb(246, 250, 215) ;
+}
+
+.contactH1 {
+  background-color: rgb(255, 227, 151) ;
+  text-align: center;
+}
+
+.genericCenter {
+text-align: center;
+}
+
+.returnFromContact {
+  position:absolute; 
+  top:90%;
+  left:50%;
+
+}
